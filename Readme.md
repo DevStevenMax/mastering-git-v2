@@ -1,6 +1,6 @@
 i like apple,
 and i like banana
 
+new member:
 new from change dev-a
-
-change form new branch
+im new hire my name dev-b
